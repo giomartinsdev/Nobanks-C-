@@ -5,22 +5,16 @@ using System.Threading.Tasks;
 
 namespace NoBanksCsharp
 {
-    public class Transaction
+    public class Transaction(Account OriginAccount, Account TargetAccount, float Value)
     {
-        public Account OriginAccount { get; set; }
-        public Account TargetAccount{ get; set; }
-        public float Value { get; set; }
-
         public void MakeTransaction(){
-            if (Value >= TargetAccount.Balance){
-                OriginAccount.Withdraw(Value);
-                TargetAccount.Deposit(Value);
-            }
-            else{
+            if (Value > OriginAccount.Balance){
                 Console.WriteLine("Valor da transferencia nao pode ser maior que o seu saldo");
             }
-
+            else{
+                OriginAccount.Withdraw(Value);
+                TargetAccount.Deposit(Value);    
+            }
         }
-
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h1NN9q8TnM9Z8xEWDmeiU5FWyslDaUOXrXqwCYymNG4ZcRfoqnn9qXcKIZVZXkfVGjrJia9PREKTsdYlTFd9Zg==",
+  "dgSpecHash": "q7KTrQw+K/+2qJANKbXpptv7JbdQesBYS3jsBL17kHBym8gG/PUMNr7tPGL8aa9SSs5EpUM+9Ol/AQdCVXapfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giovanni.amartins\\Documents\\cursos\\c#_curso_basic\\Nobanks-Csharp\\NoBanksCsharp.csproj",
+  "projectFilePath": "/home/giovanni/desenvolvimento/Nobanks-Csharp/NoBanksCsharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giovanni.amartins\\Documents\\cursos\\c#_curso_basic\\Nobanks-Csharp\\NoBanksCsharp.csproj": {}
+    "/home/giovanni/desenvolvimento/Nobanks-Csharp/NoBanksCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giovanni.amartins\\Documents\\cursos\\c#_curso_basic\\Nobanks-Csharp\\NoBanksCsharp.csproj": {
+    "/home/giovanni/desenvolvimento/Nobanks-Csharp/NoBanksCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giovanni.amartins\\Documents\\cursos\\c#_curso_basic\\Nobanks-Csharp\\NoBanksCsharp.csproj",
+        "projectUniqueName": "/home/giovanni/desenvolvimento/Nobanks-Csharp/NoBanksCsharp.csproj",
         "projectName": "NoBanksCsharp",
-        "projectPath": "C:\\Users\\giovanni.amartins\\Documents\\cursos\\c#_curso_basic\\Nobanks-Csharp\\NoBanksCsharp.csproj",
-        "packagesPath": "C:\\Users\\giovanni.amartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giovanni.amartins\\Documents\\cursos\\c#_curso_basic\\Nobanks-Csharp\\obj\\",
+        "projectPath": "/home/giovanni/desenvolvimento/Nobanks-Csharp/NoBanksCsharp.csproj",
+        "packagesPath": "/home/giovanni/.nuget/packages/",
+        "outputPath": "/home/giovanni/desenvolvimento/Nobanks-Csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\giovanni.amartins\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/giovanni/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\giovanni.amartins\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/giovanni/.dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
